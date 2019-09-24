@@ -4,5 +4,6 @@ __pycache__
 *.png
 static/
 media/
-bin
-lib
+bin/
+lib/
+include/
